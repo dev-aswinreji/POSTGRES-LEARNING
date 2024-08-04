@@ -18,5 +18,5 @@ CREATE TABLE cars (
   price int
 )
 
-INSERT INTO cars ValUES ('Mustang','Ford',280000)
+INSERT INTO cars ValUES ('Mustang','Ford',280000)   -- To insert value in the Table 
 
